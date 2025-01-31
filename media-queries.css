@@ -1,0 +1,77 @@
+@media (min-width:768px) and (max-width:991px){
+    .nav-toggle{
+        display:block;
+    }
+    .nav-links,.auth-buttons{
+        display:none;
+    }
+    .person h1{
+        font-size:25px;
+    }
+    .btn{
+        width:60%;
+    }
+    .first-box-text, .second-box-text, .third-box-text{
+        font-size:14px;
+        line-height:1.8;
+    }
+    .second-top-section{
+        height:70vh;
+        flex-wrap:wrap;
+        padding-right:20px;
+    }
+    .second-top-firstbox , .second-top-Secondbox, .second-top-Thirdbox{
+        width:45%;
+        height:30vh;
+    }
+    .Third-top-section{
+        height:110vh;
+    }
+    .third-parent{
+        display:flex;
+        flex-wrap:wrap;
+
+    }
+    .ONLINE{
+        width:50vw;
+        font-size:18px;
+    }
+    .imgbox{
+        width:18vw;
+        height:35vh;
+    }
+    .textbox{
+        padding-left:20px;
+        width:35vw;
+        height:45vh;
+    }
+.btn1{
+    width:25vw;
+}
+.third-second-first-box{
+    width:50vw;
+}
+.third-second-second-box{
+    width:50vw;
+}
+.fourth-section{
+
+}
+.fourthparentdiv{
+    width:100%;
+}
+.fourth-image{
+    height:28vh;
+    width:40%;
+}
+.btn1{
+    width:28vw;
+}
+.fourth-footer{
+    width:80%;
+    height:11vh;
+}
+.btn2{
+    width:30vw;
+}
+}
